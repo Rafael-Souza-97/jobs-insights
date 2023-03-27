@@ -17,7 +17,7 @@ A escrita de testes automatizados é uma prática fundamental para garantir a qu
 <br>
 <br>
 
-## INSTALAÇÃO DO PROJETO JOBS INSIGHTS
+## Instalação
 
 <br>
 
